@@ -11,11 +11,11 @@ export default {
           path: '/',
           component: './Helloworld',
         },
+
         {
           path: '/helloworld',
           component: './Helloworld'
         },
-
         { path: 'list', component: '../pages/list' },
         { path: 'puzzlecards', component: './puzzlecards' },
         { path: 'samplechart', component: '../components/SampleChart' },
@@ -28,7 +28,12 @@ export default {
 
           ]
         },
-
+        {
+          path: '/demo',
+          routes: [
+            { path: '/demo/neural_style_demo', component: './Demo/Neural_Style_Demo' },
+          ]
+        },
         // {
         //   path: '/products',
         //   component: './products',

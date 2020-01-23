@@ -24,30 +24,32 @@ export default class BasicLayout extends Component {
               key="sub1"
               title={<span><Icon type="dashboard" /><span>Deep Learning Web App</span></span>}
             >
-              <Menu.Item key="2"><Link to="/dashboard/analysis">Neural Style Transfer</Link></Menu.Item>
+              <Menu.Item key="2"><Link to="/demo/neural_style_demo">Neural Style Transfer</Link></Menu.Item>
               <Menu.Item key="3"><Link to="/dashboard/monitor">Music Generation Network</Link></Menu.Item>
-              <Menu.Item key="4"><Link to="/dashboard/workplace">Speech Style Geeration Network</Link></Menu.Item>
+              <Menu.Item key="4"><Link to="/dashboard/workplace">Machine Translation</Link></Menu.Item>
+              <Menu.Item key="5"><Link to="/dashboard/workplace">Complicated Graphs prediction</Link></Menu.Item>
             </SubMenu>
             <SubMenu
               key="sub2"
               title={<span><Icon type="retweet" /><span>How they work</span></span>}
             >
-              <Menu.Item key="5"><Link to="/dashboard/analysis">Neural Style Transfer</Link></Menu.Item>
-              <Menu.Item key="6"><Link to="/dashboard/monitor">Music Generation Network</Link></Menu.Item>
-              <Menu.Item key="7"><Link to="/dashboard/workplace">Speech Style Geeration Network</Link></Menu.Item>
+              <Menu.Item key="6"><Link to="/dashboard/analysis">Neural Style Transfer</Link></Menu.Item>
+              <Menu.Item key="7"><Link to="/dashboard/monitor">Music Generation Network</Link></Menu.Item>
+              <Menu.Item key="8"><Link to="/dashboard/workplace">Machine Translation</Link></Menu.Item>
+              <Menu.Item key="9"><Link to="/dashboard/workplace">Complicated Graphs prediction</Link></Menu.Item>
             </SubMenu>
             <SubMenu
               key="sub3"
               title={<span><Icon type="retweet" /><span>A place for myself</span></span>}
             >
-              <Menu.Item key="8"><Link to="/dashboard/analysis">Happy Sugar Life</Link></Menu.Item>
+              <Menu.Item key="10"><Link to="/dashboard/analysis">Happy Sugar Life</Link></Menu.Item>
             </SubMenu>
             <SubMenu
               key="sub4"
               title={<span><Icon type="retweet" /><span>About Me</span></span>}
             >
-              <Menu.Item key="9"><Link to="/dashboard/analysis">About Me</Link></Menu.Item>
-              <Menu.Item key="10"><Link to="/dashboard/analysis">Contact</Link></Menu.Item>
+              <Menu.Item key="11"><Link to="/dashboard/analysis">About Me</Link></Menu.Item>
+              <Menu.Item key="12"><Link to="/dashboard/analysis">Contact</Link></Menu.Item>
             </SubMenu>
           </Menu>
         </Sider>
@@ -58,7 +60,7 @@ export default class BasicLayout extends Component {
               {this.props.children}
             </div>
           </Content>
-          <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+          <Footer style={{ textAlign: 'center' }}>Jonathan Sum ©2020</Footer>
         </Layout>
       </Layout>
     )
