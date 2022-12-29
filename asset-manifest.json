@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c51e8e1c.css",
-    "main.js": "/static/js/main.a1d32386.js",
+    "main.js": "/static/js/main.83cffda5.js",
     "static/media/torch1.gif": "/static/media/torch1.d8903a67c2d569e98fe2.gif",
-    "static/media/a2.jpg": "/static/media/a2.b003267c3e4e132ad83a.jpg",
+    "static/media/me.png": "/static/media/me.9fc23f96dd020bf33b48.png",
     "static/media/a4.jpg": "/static/media/a4.b003267c3e4e132ad83a.jpg",
-    "static/media/me.png": "/static/media/me.76ab184a421de7a8d1ae.png",
     "static/media/torch2.gif": "/static/media/torch2.3b359b94d06fd6993d76.gif",
     "static/media/paddy1.jpg": "/static/media/paddy1.296d8faae89cb9047cf4.jpg",
     "static/media/satellite1.jpg": "/static/media/satellite1.f620862b60533a389565.jpg",
     "static/media/color1.png": "/static/media/color1.6e5ce9a00309a1fa1f38.png",
     "static/media/a1.jpg": "/static/media/a1.7aa7e306e93835b06ef5.jpg",
+    "static/media/a2.jpg": "/static/media/a2.7aa7e306e93835b06ef5.jpg",
     "static/media/a3.jpg": "/static/media/a3.7aa7e306e93835b06ef5.jpg",
     "static/media/deaf1.png": "/static/media/deaf1.a7bdda9f30c5f9efa35d.png",
     "static/media/bg-texture.png": "/static/media/bg-texture.4bdc4f8e3f4494be2de4.png",
@@ -19,10 +19,10 @@
     "static/media/product1.jpg": "/static/media/product1.f86b6c4b5a778c6dc829.jpg",
     "index.html": "/index.html",
     "main.c51e8e1c.css.map": "/static/css/main.c51e8e1c.css.map",
-    "main.a1d32386.js.map": "/static/js/main.a1d32386.js.map"
+    "main.83cffda5.js.map": "/static/js/main.83cffda5.js.map"
   },
   "entrypoints": [
     "static/css/main.c51e8e1c.css",
-    "static/js/main.a1d32386.js"
+    "static/js/main.83cffda5.js"
   ]
 }
