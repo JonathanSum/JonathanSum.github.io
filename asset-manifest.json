@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c51e8e1c.css",
-    "main.js": "/static/js/main.40e9c110.js",
+    "main.js": "/static/js/main.679dbf9c.js",
     "static/media/torch1.gif": "/static/media/torch1.d8903a67c2d569e98fe2.gif",
     "static/media/a2.jpg": "/static/media/a2.b003267c3e4e132ad83a.jpg",
     "static/media/a4.jpg": "/static/media/a4.b003267c3e4e132ad83a.jpg",
@@ -14,15 +14,15 @@
     "static/media/a3.jpg": "/static/media/a3.7aa7e306e93835b06ef5.jpg",
     "static/media/deaf1.png": "/static/media/deaf1.a7bdda9f30c5f9efa35d.png",
     "static/media/bg-texture.png": "/static/media/bg-texture.4bdc4f8e3f4494be2de4.png",
-    "static/media/cv.pdf": "/static/media/cv.5aa5560f0c758357bf63.pdf",
+    "static/media/cv.pdf": "/static/media/cv.e3f8b5a6e507d5b2e08a.pdf",
     "static/media/currency1.jpg": "/static/media/currency1.e5b0903d76c3153caa4d.jpg",
     "static/media/product1.jpg": "/static/media/product1.f86b6c4b5a778c6dc829.jpg",
     "index.html": "/index.html",
     "main.c51e8e1c.css.map": "/static/css/main.c51e8e1c.css.map",
-    "main.40e9c110.js.map": "/static/js/main.40e9c110.js.map"
+    "main.679dbf9c.js.map": "/static/js/main.679dbf9c.js.map"
   },
   "entrypoints": [
     "static/css/main.c51e8e1c.css",
-    "static/js/main.40e9c110.js"
+    "static/js/main.679dbf9c.js"
   ]
 }
